@@ -14,3 +14,5 @@ Here you can find all of my solutions from MSSQL course in Software University (
 [6. Indeces and data aggregation - Exercise](https://github.com/Vaseto28/SoftUni-MSSQL/tree/main/Indeces%20and%20data%20aggregation%20-%20Exercise)
 
 [7. Functions and stored procedures - Exercise](https://github.com/Vaseto28/SoftUni-MSSQL/tree/main/Functions%20and%20stored%20procedures%20-%20Exercise)
+
+[8. Exam preparations](https://github.com/Vaseto28/SoftUni-MSSQL/tree/main/Exam%20preparations)
