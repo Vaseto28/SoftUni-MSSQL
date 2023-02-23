@@ -10,3 +10,5 @@ Here you can find all of my solutions from MSSQL course in Software University (
 [4. Built-in functions - Exercise](https://github.com/Vaseto28/SoftUni-MSSQL/tree/main/Built-in%20functions%20-%20Exercise)
 
 [5. Subqueries and joins - Exercise](https://github.com/Vaseto28/SoftUni-MSSQL/tree/main/Subqueries%20and%20joins%20-%20Exercise)
+
+[6. Indeces and data aggregation - Exercise](https://github.com/Vaseto28/SoftUni-MSSQL/tree/main/Indeces%20and%20data%20aggregation%20-%20Exercise)
